@@ -1,0 +1,19 @@
+library/other/lda-gov/go.sum
+  s_94f7abeab70f5c::t_5092e9f29daebb 1-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b934d69bf6e1dad0316a21270e963ff399989c4b",
+  "prompts": {},
+  "sessions": {
+    "s_94f7abeab70f5c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13744f5d7ffenu01U7T0B0vHKO",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mherzog4 <matthewherzog4@gmail.com>"
+    }
+  }
+}
