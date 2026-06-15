@@ -1,0 +1,35 @@
+library/other/lda-gov/internal/cli/entities_resolve.go
+  s_94f7abeab70f5c::t_c9c652a7589555 8,88-95
+library/other/lda-gov/internal/cli/lda_novel_helpers.go
+  s_94f7abeab70f5c::t_c9c652a7589555 78-90
+library/other/lda-gov/internal/cli/contributions_totals_test.go
+  s_94f7abeab70f5c::t_c9c652a7589555 6-9,36-48
+library/other/lda-gov/internal/cli/lda_novel_test_helpers_test.go
+  s_94f7abeab70f5c::t_c9c652a7589555 11,42-56,58-63,76
+library/other/lda-gov/internal/cli/reports_quarter.go
+  s_94f7abeab70f5c::t_c9c652a7589555 58-60
+library/other/lda-gov/internal/cli/reports_quarter_test.go
+  s_94f7abeab70f5c::t_c9c652a7589555 6-9,40-55
+library/other/lda-gov/internal/cli/contributions_totals.go
+  s_94f7abeab70f5c::t_c9c652a7589555 53-55
+library/other/lda-gov/internal/cli/entities_resolve_test.go
+  s_94f7abeab70f5c::t_c9c652a7589555 6-9,57-71
+library/other/lda-gov/.printing-press-patches/lda-gov-greptile-review-fixes.json
+  s_94f7abeab70f5c::t_c9c652a7589555 1-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "ceda28718dd05f04162f66023bbee510e571f164",
+  "prompts": {},
+  "sessions": {
+    "s_94f7abeab70f5c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13744f5d7ffenu01U7T0B0vHKO",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mherzog4 <matthewherzog4@gmail.com>"
+    }
+  }
+}
