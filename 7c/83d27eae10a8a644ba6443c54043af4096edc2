@@ -1,0 +1,19 @@
+library/other/lda-gov/cmd/lda-gov-pp-mcp/main.go
+  s_94f7abeab70f5c::t_049945b3ee1429 1-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "7c83d27eae10a8a644ba6443c54043af4096edc2",
+  "prompts": {},
+  "sessions": {
+    "s_94f7abeab70f5c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13744f5d7ffenu01U7T0B0vHKO",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Mherzog4 <matthewherzog4@gmail.com>"
+    }
+  }
+}
